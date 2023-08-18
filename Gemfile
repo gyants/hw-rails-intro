@@ -18,6 +18,8 @@ gem 'jquery-rails'
 
 gem 'themoviedb'
 
+gem 'therubyracer'
+
 # Window support
 gem 'tzinfo'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
